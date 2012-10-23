@@ -1,7 +1,7 @@
 cq
 ==
 
-circular queu without lock
+circular queue without lock
 
 
 !!!NOT TESTED!!!
